@@ -1,0 +1,8 @@
+{
+    "jobs": [
+        { "title": "Ninja UX Designer", "id": 1, "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis nesciunt consequuntur molestiae sint fugiat eius dignissimos! Ut vel architecto rerum in nobis, incidunt blanditiis esse!" },
+        { "title": "Ninja Web Developer", "id": 2, "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis nesciunt consequuntur molestiae sint fugiat eius dignissimos!" },
+        { "title": "Ninja Vue Developer", "id": 3, "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit." }
+    ],
+    "blogs": []
+}
